@@ -1,0 +1,3 @@
+# option
+
+Go library implementing Option type known from many modern languages like Rust, Scala, etc. Work in progress... 
